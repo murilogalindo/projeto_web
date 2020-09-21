@@ -1,0 +1,61 @@
+.diferenciais-container{
+  background-color: #FFFFFF;
+
+
+}
+.titulo-diferenciais-alinhado{
+  padding-top: 80px;
+  color: #2F4F4F;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+
+}
+.contudo-diferenciais{
+  width: 25%;
+  height: 150px;
+  display: inline-block;
+  box-shadow: 0px 0px 2px 1px #C1CDCD;
+  width: 250px;
+  height: 200px;
+  padding: 20px;
+  margin: 10px;
+  margin-bottom: 120px;
+  border-radius:10px;
+  display: inline-table;
+}
+.texto-diferenciais{
+  text-align: center;
+  color: #0B4C5F;
+  padding-top: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9em;
+
+}
+.format-link{
+  color: #00008B;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+}
+.format-link:hover{
+  color: red;
+}
+.ajustando-elementos-diferenciais{
+  color: #000000;
+  text-align: center; /* Alteramos de right para center */
+}
+.item-treina{
+  background: rgba(252, 185, 0, 0.9);
+}
+.item-entc{
+  background-color: none;
+}
+.item-ativo{
+  background-color: none;
+}
+.linha-posimpl{
+  width: 100%;
+  display: inline-block;
+}

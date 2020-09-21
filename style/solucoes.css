@@ -1,0 +1,59 @@
+.servicos-container{
+ width: 100%;
+ height: 100%;
+ display: inline-table;
+ /*background-color: rgba(218,220,232, 1);*/
+ background: rgba(18, 32, 89, 0.9);
+ /*background: rgba(34,36,50, 1);*/
+    /*https://www.ideawebdesign.com.br/images/parallax-6.jpg*/
+}
+.titulo-solucoes-alinhado{
+  padding-top: 80px;
+  color: #FFFFFF;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+
+}
+.texto-solucoes{
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+
+}
+/*grupo de soluçoes*/
+.ajustando-elementos{
+  color: #FFFFFF;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  text-align: center; /* Alteramos de right para center *//
+
+}
+.contudo-servicos{
+  width: 25%;
+  height: 150px;
+  display: inline-table;
+  box-shadow: 0px 0px 2px 0px #FFFFFF;
+  border: 1px  #B2DFEE;
+  width: 400px;
+  height: 250px;
+  padding: 20px;
+  margin: 10px;
+  margin-bottom: 120px;
+}
+.item-dev{
+  background-color: none;
+}
+.item-otim{
+  background-color: none;
+}
+.item-portais{
+  background-color: none;
+}
+.linha-oculta{
+  width: 100%;
+  display: inline-block;
+}
